@@ -1,12 +1,12 @@
-# Exercises 8
-## Content of your script, cronjob and a sample of the email sent.<br>
+# Exercises 9
+## Content of Ansible playbook.<br>
 Script Screen shot 
-![Script screen shot](./images/Script%20Screen%20Shot%20%20.png)
+![Playbook screen shot](./images/Screen%20Shot%20Ansible%20playbook.png)
 
 <br><br>
-Crontab Screen shot 
-![Crontab screen shot](./images/Crontab%20Screen%20Shot%20.png)
+Systemctl status apache2 Screen shot 
+![Systemctl status apache2 screen shot](./images/systemctl%20status%20apache2%20.png)
 
 <br><br>
-Sample of Email sent Screen shot 
-![Email sent screen shot](./images/Sample%20of%20the%20email%20sent%20Screen%20Shot.png)
+The rendered page Screen shot 
+![Rendered pagescreen shot](./images/Screen%20Shot%20%20My%20Apache%20Web%20Page.png)

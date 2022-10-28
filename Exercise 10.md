@@ -1,17 +1,10 @@
-# Exercises 10
+# Exercise 10 
 
-# Task:
-
-## 193.16.20.35/29 <br>
-
-## What is the Network IP, number of hosts, range of IP addresses and broadcast IP from this subnet? 
+# Mini Project output screen shot
 <br>
+<br>My domian name http://osayamenimar.me
 
-## 1. Network IP = 193.16.20.32
-## 2. Number of Hosts = 6
-## 3. Range of IP addresses = 193.16.20.33 - 193.16.20.38
-## 4. Broadcast IP = 193.16.20.39
+My Ip address http://139.59.169.54/
 
 
-
-<br>
+![command screen shot](/images/Screen%20Shot%20Laravel%20%20.png)

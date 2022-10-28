@@ -1,12 +1,17 @@
-# Exercises 9
-## Content of Ansible playbook.<br>
-Script Screen shot 
-![Playbook screen shot](./images/Screen%20Shot%20Ansible%20playbook.png)
+# Exercises 10
 
-<br><br>
-Systemctl status apache2 Screen shot 
-![Systemctl status apache2 screen shot](./images/systemctl%20status%20apache2%20.png)
+# Task:
 
-<br><br>
-The rendered page Screen shot 
-![Rendered pagescreen shot](./images/Screen%20Shot%20%20My%20Apache%20Web%20Page.png)
+## 193.16.20.35/29 <br>
+
+## What is the Network IP, number of hosts, range of IP addresses and broadcast IP from this subnet? 
+<br>
+
+## 1. Network IP = 193.16.20.32
+## 2. Number of Hosts = 6
+## 3. Range of IP addresses = 193.16.20.33 - 193.16.20.38
+## 4. Broadcast IP = 193.16.20.39
+
+
+
+<br>
