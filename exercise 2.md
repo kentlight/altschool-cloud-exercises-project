@@ -1,7 +1,7 @@
 # Exercises 2
 ## Some Commands for Linux
 
-1. Ping  = used to test network connectivity
+1. Ping = used to test network connectivity
 
 2. Ps  = it prints useful information about the programs you are running 
 
