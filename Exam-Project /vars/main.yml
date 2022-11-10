@@ -1,8 +1,0 @@
-mysql_root_password: "kentlightosa"
-mysql_databases:
-  - name: laravel
-mysql_users:
-  - name: ansible
-    host: "%"
-    password: kentlightosa
-    priv: "laravel.*:ALL"
